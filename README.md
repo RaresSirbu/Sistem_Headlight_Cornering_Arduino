@@ -1,0 +1,3 @@
+Acest proiect prezintă dezvoltarea unui sistem de tip faruri adaptive, care ajustează orientarea farurilor în funcție de direcția volanului, oferind o iluminare optimă și sigură în timpul virajelor. Sistemul utilizează un potențiometru pentru a determina unghiul de virare și două servo-uri pentru poziționarea farurilor stânga și dreapta, asigurând mișcări line și filtrare eficientă pentru a evita oscilațiile bruște.
+
+Proiectul reprezintă un pas important în explorarea tehnologiilor de asistență a șoferului și a sistemelor de iluminare inteligentă, combinând elemente de electronică, control servo și programare într-un sistem funcțional și coerent. Scopul principal a fost realizarea unei simulări realiste a comportamentului farurilor adaptive.
